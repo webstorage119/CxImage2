@@ -95,7 +95,7 @@
     <Link>
       <SubSystem>Windows</SubSystem>
       <GenerateDebugInformation>true</GenerateDebugInformation>
-      <AdditionalDependencies>wininet.lib;../cximage/CxImageDLL/Debug/cximagecrtd.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <AdditionalDependencies>wininet.lib;D:\work\cximage\CxImage2\output\$(Configuration)\$(PlatformShortName)\png.lib;D:\work\cximage\CxImage2\output\$(Configuration)\$(PlatformShortName)\jpeg.lib;D:\work\cximage\CxImage2\output\$(Configuration)\$(PlatformShortName)\zlib.lib;D:\work\cximage\CxImage2\output\$(Configuration)\$(PlatformShortName)\tiff.lib;D:\work\cximage\CxImage2\output\$(Configuration)\$(PlatformShortName)\jbig.lib;D:\work\cximage\CxImage2\output\$(Configuration)\$(PlatformShortName)\mng.lib;D:\work\cximage\CxImage2\output\$(Configuration)\$(PlatformShortName)\jasper.lib;D:\work\cximage\CxImage2\output\$(Configuration)\$(PlatformShortName)\libdcr.lib;D:\work\cximage\CxImage2\output\$(Configuration)\$(PlatformShortName)\libpsd.lib;D:\work\cximage\CxImage2\output\$(Configuration)\$(PlatformShortName)\cximage.lib;%(AdditionalDependencies)</AdditionalDependencies>
       <OutputFile>../bin/demoddll.exe</OutputFile>
     </Link>
     <Midl>
@@ -122,7 +122,7 @@
     <Link>
       <SubSystem>Windows</SubSystem>
       <GenerateDebugInformation>true</GenerateDebugInformation>
-      <AdditionalDependencies>wininet.lib;../x64/Debug/png.lib;../x64/Debug/jpeg.lib;../x64/Debug/zlib.lib;../x64/Debug/tiff.lib;../x64/Debug/jbig.lib;../x64/Debug/jasper.lib;../x64/Debug/mng.lib;../x64/Debug/libdcr.lib;../x64/Debug/libpsd.lib;../x64/Debug/cximage.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <AdditionalDependencies>wininet.lib;D:\work\cximage\CxImage2\output\$(Configuration)\$(PlatformShortName)\png.lib;D:\work\cximage\CxImage2\output\$(Configuration)\$(PlatformShortName)\jpeg.lib;D:\work\cximage\CxImage2\output\$(Configuration)\$(PlatformShortName)\zlib.lib;D:\work\cximage\CxImage2\output\$(Configuration)\$(PlatformShortName)\tiff.lib;D:\work\cximage\CxImage2\output\$(Configuration)\$(PlatformShortName)\jbig.lib;D:\work\cximage\CxImage2\output\$(Configuration)\$(PlatformShortName)\mng.lib;D:\work\cximage\CxImage2\output\$(Configuration)\$(PlatformShortName)\jasper.lib;D:\work\cximage\CxImage2\output\$(Configuration)\$(PlatformShortName)\libdcr.lib;D:\work\cximage\CxImage2\output\$(Configuration)\$(PlatformShortName)\libpsd.lib;D:\work\cximage\CxImage2\output\$(Configuration)\$(PlatformShortName)\cximage.lib;%(AdditionalDependencies)</AdditionalDependencies>
     </Link>
     <Midl>
       <MkTypLibCompatible>false</MkTypLibCompatible>
@@ -151,7 +151,7 @@
       <GenerateDebugInformation>true</GenerateDebugInformation>
       <EnableCOMDATFolding>true</EnableCOMDATFolding>
       <OptimizeReferences>true</OptimizeReferences>
-      <AdditionalDependencies>wininet.lib;../Release/png.lib;../Release/jpeg.lib;../Release/zlib.lib;../Release/tiff.lib;../Release/jbig.lib;../Release/jasper.lib;../Release/mng.lib;../Release/libdcr.lib;../Release/libpsd.lib;../Release/cximage.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <AdditionalDependencies>wininet.lib;D:\work\cximage\CxImage2\output\$(Configuration)\$(PlatformShortName)\png.lib;D:\work\cximage\CxImage2\output\$(Configuration)\$(PlatformShortName)\jpeg.lib;D:\work\cximage\CxImage2\output\$(Configuration)\$(PlatformShortName)\zlib.lib;D:\work\cximage\CxImage2\output\$(Configuration)\$(PlatformShortName)\tiff.lib;D:\work\cximage\CxImage2\output\$(Configuration)\$(PlatformShortName)\jbig.lib;D:\work\cximage\CxImage2\output\$(Configuration)\$(PlatformShortName)\mng.lib;D:\work\cximage\CxImage2\output\$(Configuration)\$(PlatformShortName)\jasper.lib;D:\work\cximage\CxImage2\output\$(Configuration)\$(PlatformShortName)\libdcr.lib;D:\work\cximage\CxImage2\output\$(Configuration)\$(PlatformShortName)\libpsd.lib;D:\work\cximage\CxImage2\output\$(Configuration)\$(PlatformShortName)\cximage.lib;%(AdditionalDependencies)</AdditionalDependencies>
       <OutputFile>../bin/demodll.exe</OutputFile>
     </Link>
     <Midl>
@@ -182,7 +182,7 @@
       <GenerateDebugInformation>true</GenerateDebugInformation>
       <EnableCOMDATFolding>true</EnableCOMDATFolding>
       <OptimizeReferences>true</OptimizeReferences>
-      <AdditionalDependencies>wininet.lib;../x64/Release/png.lib;../x64/Release/jpeg.lib;../x64/Release/zlib.lib;../x64/Release/tiff.lib;../x64/Release/jbig.lib;../x64/Release/jasper.lib;../x64/Release/mng.lib;../x64/Release/libdcr.lib;../x64/Release/libpsd.lib;../x64/Release/cximage.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <AdditionalDependencies>wininet.lib;D:\work\cximage\CxImage2\output\$(Configuration)\$(PlatformShortName)\png.lib;D:\work\cximage\CxImage2\output\$(Configuration)\$(PlatformShortName)\jpeg.lib;D:\work\cximage\CxImage2\output\$(Configuration)\$(PlatformShortName)\zlib.lib;D:\work\cximage\CxImage2\output\$(Configuration)\$(PlatformShortName)\tiff.lib;D:\work\cximage\CxImage2\output\$(Configuration)\$(PlatformShortName)\jbig.lib;D:\work\cximage\CxImage2\output\$(Configuration)\$(PlatformShortName)\mng.lib;D:\work\cximage\CxImage2\output\$(Configuration)\$(PlatformShortName)\jasper.lib;D:\work\cximage\CxImage2\output\$(Configuration)\$(PlatformShortName)\libdcr.lib;D:\work\cximage\CxImage2\output\$(Configuration)\$(PlatformShortName)\libpsd.lib;D:\work\cximage\CxImage2\output\$(Configuration)\$(PlatformShortName)\cximage.lib;%(AdditionalDependencies)</AdditionalDependencies>
     </Link>
     <Midl>
       <MkTypLibCompatible>false</MkTypLibCompatible>

@@ -50,7 +50,7 @@ BEGIN
             VALUE "FileDescription", "cximage\0"
             VALUE "FileVersion", "7, 0, 2, 0\0"
             VALUE "InternalName", "cximage\0"
-            VALUE "LegalCopyright", "Copyright © 2001 - 2011\0"
+            VALUE "LegalCopyright", "Copyright ?2001 - 2011\0"
             VALUE "LegalTrademarks", "\0"
             VALUE "OriginalFilename", "cximage.dll\0"
             VALUE "PrivateBuild", "\0"

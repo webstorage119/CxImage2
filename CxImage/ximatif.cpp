@@ -48,6 +48,7 @@ bool CxImageTIF::Decode(CxFile * hFile)
 	uint16 res_unit; //<Trifon>
 	uint32 x, y;
 	float resolution, offset;
+	float xres, yres;
 	BOOL isRGB;
 	uint8_t *bits;		//pointer to source data
 	uint8_t *bits2;	//pointer to destination data
@@ -84,17 +85,17 @@ bool CxImageTIF::Decode(CxFile * hFile)
 	}
 
 	TIFFGetFieldDefaulted(m_tif, TIFFTAG_RESOLUTIONUNIT, &res_unit);
-	if (TIFFGetField(m_tif, TIFFTAG_XRESOLUTION, &resolution))
+	if (TIFFGetField(m_tif, TIFFTAG_XRESOLUTION, &xres))
 	{
 		if (res_unit == RESUNIT_CENTIMETER) resolution = (float)(resolution*2.54f + 0.5f);
 		SetXDPI((int32_t)resolution);
 	}
-	if (TIFFGetField(m_tif, TIFFTAG_YRESOLUTION, &resolution))
+	if (TIFFGetField(m_tif, TIFFTAG_YRESOLUTION, &yres))
 	{
 		if (res_unit == RESUNIT_CENTIMETER) resolution = (float)(resolution*2.54f + 0.5f);
 		SetYDPI((int32_t)resolution);
 	}
-
+	height = (xres / yres) * height;
 	if (TIFFGetField(m_tif, TIFFTAG_XPOSITION, &offset))	info.xOffset = (int32_t)offset;
 	if (TIFFGetField(m_tif, TIFFTAG_YPOSITION, &offset))	info.yOffset = (int32_t)offset;
 

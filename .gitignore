@@ -2,6 +2,10 @@
 */Release/*
 */Unicode Debug/*
 */Unicode Release/*
+*/bin/*
+bin
+Debug
+Release
 
 # User-specific files
 *.user
@@ -13,3 +17,10 @@
 # Visual C++ cache files
 *.aps
 *.ncb
+
+*.obj
+*.pdb
+*.aps
+
+RCa19776
+RCb19776
