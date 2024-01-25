@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="png.c">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="pngerror.c">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="pngget.c">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="pngmem.c">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="pngpread.c">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="pngread.c">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="pngrio.c">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="pngrtran.c">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="pngrutil.c">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="pngset.c">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="pngtrans.c">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="pngwio.c">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="pngwrite.c">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="pngwtran.c">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="pngwutil.c">
+      <Filter>sources</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="png.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="pngconf.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="sources">
+      <UniqueIdentifier>{42f0d2ef-2016-46a6-8490-68eeae5b67be}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="headers">
+      <UniqueIdentifier>{19b7d31d-fed1-40a0-a1e5-45c2980a4ced}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

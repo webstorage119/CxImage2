@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="adler32.c">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="compress.c">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="crc32.c">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="deflate.c">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="infback.c">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="inffast.c">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="inflate.c">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="inftrees.c">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="trees.c">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="uncompr.c">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="zutil.c">
+      <Filter>sources</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="crc32.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="deflate.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="inffast.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="inffixed.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="inflate.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="inftrees.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="trees.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="zconf.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="zlib.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="zutil.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="headers">
+      <UniqueIdentifier>{97c1e186-36c4-402a-a4ab-f41e21e4266b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="sources">
+      <UniqueIdentifier>{1eb04c7d-70c2-45f1-9a3d-214d12f361b4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

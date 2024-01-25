@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="libmng_callback_xs.c">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="libmng_chunk_descr.c">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="libmng_chunk_io.c">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="libmng_chunk_prc.c">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="libmng_chunk_xs.c">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="libmng_cms.c">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="libmng_display.c">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="libmng_dither.c">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="libmng_error.c">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="libmng_filter.c">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="libmng_hlapi.c">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="libmng_jpeg.c">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="libmng_object_prc.c">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="libmng_pixels.c">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="libmng_prop_xs.c">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="libmng_read.c">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="libmng_trace.c">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="libmng_write.c">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="libmng_zlib.c">
+      <Filter>sources</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="libmng.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="libmng_chunk_descr.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="libmng_chunk_io.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="libmng_chunk_prc.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="libmng_chunks.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="libmng_cms.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="libmng_conf.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="libmng_data.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="libmng_display.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="libmng_dither.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="libmng_error.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="libmng_filter.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="libmng_jpeg.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="libmng_memory.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="libmng_object_prc.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="libmng_objects.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="libmng_pixels.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="libmng_read.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="libmng_trace.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="libmng_types.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="libmng_write.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="libmng_zlib.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="sources">
+      <UniqueIdentifier>{d220bcb6-85a6-437a-b6a5-d0851eb82a5d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="headers">
+      <UniqueIdentifier>{a7243653-8f44-4941-ae9e-1ce629cfc7f8}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

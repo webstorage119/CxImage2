@@ -1,0 +1,259 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="BCMenu.cpp">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="ChildFrm.cpp">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="demo.cpp">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="demoDoc.cpp">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="demoView.cpp">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="dlgcapture.cpp">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgColorize.cpp">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgCombine.cpp">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgCustomFilter.cpp">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgDataExt.cpp">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgDecBpp.cpp">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgDither.cpp">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgExpand.cpp">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgFFT.cpp">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgFloodFill.cpp">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgGamma.cpp">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgHisto.cpp">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgIncBpp.cpp">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgJpeg.cpp">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgMix.cpp">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgOpacity.cpp">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgOptions.cpp">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgPalette.cpp">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgRepair.cpp">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgResample.cpp">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgRotate.cpp">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgShadow.cpp">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgSkew.cpp">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgText.cpp">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgThreshold.cpp">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgURL.cpp">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="logomdi.cpp">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="MainFrm.cpp">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Quantize.cpp">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="TwainCpp.cpp">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="xTargetButton.cpp">
+      <Filter>sources</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="BCMenu.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="ChildFrm.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="demo.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="demoDoc.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="demoView.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="dlgcapture.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgColorize.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgCombine.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgCustomFilter.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgDataExt.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgDecBpp.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgDither.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgExpand.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgFFT.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgFloodFill.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgGamma.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgHisto.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgIncBpp.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgJpeg.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgMix.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgOpacity.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgOptions.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgPalette.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgRepair.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgResample.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgRotate.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgShadow.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgSkew.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgText.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgThreshold.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgURL.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="logomdi.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="MainFrm.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Quantize.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>resource</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="TwainCpp.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+    <ClInclude Include="xTargetButton.h">
+      <Filter>headers</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\demo.ico">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="res\demo.rc2">
+      <Filter>resource</Filter>
+    </None>
+    <None Include="res\demoDoc.ico">
+      <Filter>resource</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="sources">
+      <UniqueIdentifier>{653ff450-1272-4920-b212-0b94a39c009a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="headers">
+      <UniqueIdentifier>{2fada63f-e0d4-466f-a60e-f8cac109edd5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="resource">
+      <UniqueIdentifier>{a0d2fd52-91aa-4d51-8cb1-cc2b9bcd8e99}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="demo.rc">
+      <Filter>resource</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>
